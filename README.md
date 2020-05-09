@@ -1,0 +1,2 @@
+# Daily
+GitHub Pages
